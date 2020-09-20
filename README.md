@@ -7,3 +7,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: https://axeljeremy7.github.io/
 - ⚡ Fun fact: Like philosophy
+
+## Skills 
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS, Node.js
