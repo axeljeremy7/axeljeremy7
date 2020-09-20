@@ -12,3 +12,4 @@
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS, Node.js
+* 🖥 PHP, Python, Java
