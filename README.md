@@ -1,10 +1,8 @@
 ### Hi there 👋 
-
 - 🌱 I like using React, React Native and Symfony.
 - 👯 I’m looking to collaborate on open sources projects.
 - 🤔 I’m interested in Machine Learning, AI, Web and Mobile development.
-- 💬 Ask me about soccer.
-- ⚡ Fun fact: Like philosophy and soccer.
+- ⚡  Like philosophy, neuroscience and soccer.
 
 ## Skills 
 * ⚛ React
