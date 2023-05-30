@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- 🌱 I like using Jupyter, React, React Native and Symfony.
+- 🌱 I like using PyTorch, Tensorflow, Python, Jupyter, React, React Native and Symfony.
 - 🤔 I’m interested in Machine Learning, AI, Web and Mobile development.
 - ⚡  Like philosophy, evolution, neuroscience and soccer.
 
