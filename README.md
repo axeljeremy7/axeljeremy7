@@ -1,7 +1,7 @@
 ### Hi, my name is Axel 👋 
 - 🌱 I like using PyTorch, Tensorflow, Python, Jupyter, React, React Native.
 - 🤔 I’m interested in Machine Learning, AI, Web and Mobile development.
-- ⚡  Like philosophy, evolution, neuroscience and soccer.
+- ⚡  Like philosophy, evolution, FEP, complex systems, neuroscience and soccer.
 
 ## Skills 
 * ⚛ React
